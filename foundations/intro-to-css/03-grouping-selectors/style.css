@@ -1,0 +1,19 @@
+.first{
+    background-color: black;
+    color: white;
+}
+.second{
+    background-color: yellow;
+}
+.first,.second{
+    font-size: 28px;
+    font-family: Helvetica "Times New Roman", sans-serif;
+    margin: 0 2px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
